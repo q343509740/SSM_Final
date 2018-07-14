@@ -11,5 +11,5 @@
   [SSM框架_V2 - 进阶版](http://ghosertblog.github.com)  
   基于SSM框架_V1 集成Mybatis的几款优秀插件，分别是： 通用Mapper 、 分页插件PageHelper 和 自动生成代码Mybatis-Generator。
   
---  
+---  
 前往 [本人博客](https://blog.csdn.net/q343509740) 的链接。
