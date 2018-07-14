@@ -6,7 +6,8 @@
   SSM_Final_V1 [详细文档](https://blog.csdn.net/q343509740/article/details/81044611) 
   
 ## 1.配置pom.xml  
-  添加SSM + Druid + Log4j2 依赖
+  添加SSM + Druid + Log4j2 依赖  
+  
   [详细说明](https://github.com/q343509740/SSM_Final/blob/master/SSM_Final_V1/pom.xml)
 
 ## 2.配置web.xml
