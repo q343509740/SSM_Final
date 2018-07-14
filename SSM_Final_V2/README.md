@@ -287,7 +287,7 @@ public interface MyMapper<T> extends Mapper<T>, MySqlMapper<T> {
 ### 3.配置Maven插件
   1）配置Command line：mybatis-generator:generate -e  
   2）配置Name：Mybatis-Generator  
-  3）运行即可-> BUILD SUCCESS(成功)
+  3）运行-> BUILD SUCCESS(成功)
 
 ---  
 前往 [本人博客](https://blog.csdn.net/q343509740) 的链接。
