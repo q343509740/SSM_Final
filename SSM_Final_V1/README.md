@@ -1,8 +1,9 @@
 # SSM_Final_V1 - [基础版]
 
-  不知不觉学了SSM框架已经三个多月了，回顾之前整合的文章，发现了很多不足，有很多可以改进的地方。因此抽出了一天时间重新整理SSM框架整合笔记。
+  不知不觉学了SSM框架已经三个多月了，回顾之前整合的文章，发现了很多不足，有很多可以改进的地方。因此抽出了一天时间重新整理SSM框架整合笔记。  
+  
   **集成SSM + Druid + Log4j2 满足入门需求！**  
-  SSM_Final_V1 [详细说明](https://blog.csdn.net/q343509740/article/details/81044611) 
+  SSM_Final_V1 [详细文档](https://blog.csdn.net/q343509740/article/details/81044611) 
   
 ## 1.添加SSM + Druid + Log4j2 依赖
   [详细说明](https://github.com/q343509740/SSM_Final/blob/master/SSM_Final_V1/pom.xml)
