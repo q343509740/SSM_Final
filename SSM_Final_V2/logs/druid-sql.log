@@ -1,0 +1,22 @@
+[2018-07-14 20:30:21] DEBUG 137 statementLog - {conn-10001, stmt-20000} executed. SELECT 'x'
+[2018-07-14 20:30:22] DEBUG 137 statementLog - {conn-10001, stmt-20001} executed. SELECT 'x'
+[2018-07-14 20:30:22] DEBUG 137 statementLog - {conn-10001, pstmt-20002} executed. SELECT id,name,state  FROM city
+[2018-07-14 20:30:42] DEBUG 137 statementLog - {conn-10001, stmt-20000} executed. SELECT 'x'
+[2018-07-14 20:30:42] DEBUG 137 statementLog - {conn-10001, stmt-20001} executed. SELECT 'x'
+[2018-07-14 20:30:43] DEBUG 137 statementLog - {conn-10001, pstmt-20002} executed. SELECT id,name,state  FROM city
+[2018-07-14 20:31:15] DEBUG 137 statementLog - {conn-10001, stmt-20000} executed. SELECT 'x'
+[2018-07-14 20:31:16] DEBUG 137 statementLog - {conn-10001, stmt-20001} executed. SELECT 'x'
+[2018-07-14 20:31:16] DEBUG 137 statementLog - {conn-10001, pstmt-20002} executed. SELECT count(0) FROM city
+[2018-07-14 20:31:16] DEBUG 137 statementLog - {conn-10001, pstmt-20003} executed. SELECT id,name,state  FROM city LIMIT 5
+[2018-07-14 20:31:36] DEBUG 137 statementLog - {conn-10001, stmt-20000} executed. SELECT 'x'
+[2018-07-14 20:31:37] DEBUG 137 statementLog - {conn-10001, stmt-20001} executed. SELECT 'x'
+[2018-07-14 20:31:37] DEBUG 137 statementLog - {conn-10001, pstmt-20002} executed. SELECT count(0) FROM city
+[2018-07-14 20:31:37] DEBUG 137 statementLog - {conn-10001, pstmt-20003} executed. SELECT id,name,state  FROM city LIMIT 5,5
+[2018-07-14 20:32:13] DEBUG 137 statementLog - {conn-10001, stmt-20000} executed. SELECT 'x'
+[2018-07-14 20:32:14] DEBUG 137 statementLog - {conn-10001, stmt-20001} executed. SELECT 'x'
+[2018-07-14 20:32:14] DEBUG 137 statementLog - {conn-10001, pstmt-20002} executed. SELECT count(0) FROM city
+[2018-07-14 20:32:14] DEBUG 137 statementLog - {conn-10001, pstmt-20003} executed. SELECT id,name,state  FROM city LIMIT 5,5
+[2018-07-14 21:11:06] DEBUG 137 statementLog - {conn-10001, stmt-20000} executed. SELECT 'x'
+[2018-07-14 21:11:07] DEBUG 137 statementLog - {conn-10001, stmt-20001} executed. SELECT 'x'
+[2018-07-14 21:11:07] DEBUG 137 statementLog - {conn-10001, pstmt-20002} executed. SELECT count(0) FROM city
+[2018-07-14 21:11:07] DEBUG 137 statementLog - {conn-10001, pstmt-20003} executed. SELECT id,name,state  FROM city LIMIT 5,5
