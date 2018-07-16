@@ -3,7 +3,15 @@
   不知不觉学了SSM框架已经三个多月了，回顾之前整合的文章，发现了很多不足，有很多可以改进的地方。因此抽出了一天时间重新整理SSM框架整合笔记。  
   
   **集成SSM + Druid + Log4j2 满足入门需求！**  
-  SSM_Final_V1 [详细文档](https://blog.csdn.net/q343509740/article/details/81044611) 
+  SSM_Final_V1 [详细文档](https://blog.csdn.net/q343509740/article/details/81044611)  
+  
+  - [ ] **SSM框架_V1**
+    - [x] Spring 4.3.2.RELEASE
+    - [x] SpringMVC 4.3.2.RELEASE
+    - [x] Mybatis 3.4.1
+    - [x] Druid 1.1.10
+    - [x] log4j 2.11.0
+    - [x] slf4j 1.7.25
   
 ## 1.配置pom.xml  
   添加SSM + Druid + Log4j2 依赖  
