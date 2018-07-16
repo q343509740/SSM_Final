@@ -14,7 +14,7 @@
         - [x] pagehelper 5.0.0
           [语法参考](https://pagehelper.github.io/)  
         - [x] generator 1.3.5
-          [语法参考](https://blog.csdn.net/isea533/article/details/42102297)  
+          [语法参考](http://mbg.cndocs.ml/)  
     - [x] Druid 1.1.10
     - [x] log4j 2.11.0
     - [x] slf4j 1.7.25
